@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">average</string>
+    <string name="sudharshan">AVERAGE CALCULAOR</string>
+    <string name="enter_the_first_number">enter the first number :</string>
+    <string name="average_is">average is....</string>
+    <string name="enter_the_second_number">enter the second number:</string>
+    <string name="second_num">enter the second number :</string>
+</resources>
